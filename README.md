@@ -24,8 +24,8 @@ End the program
 ```
 '''
 Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber: 23012450
+Developed by: BHARANI KUMAR J
+RegisterNumber: 212224240024
 '''
 import numpy as np
 import sys
